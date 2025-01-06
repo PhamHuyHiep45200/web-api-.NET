@@ -33,3 +33,4 @@ D:\project\NetC\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
 D:\project\NetC\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 D:\project\NetC\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\project\NetC\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\project\NetC\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
